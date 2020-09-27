@@ -1,5 +1,6 @@
 ![d272c0197b866ef5822c9c457d2f0f51-700](https://user-images.githubusercontent.com/20038775/87086383-60ddaa00-c1e6-11ea-8c31-d4d30c2b516f.jpg)
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="ritwik-sharma-205a85148"><a class="LI-simple-link" href='https://in.linkedin.com/in/ritwik-sharma-205a85148?trk=profile-badge'>Ritwik Sharma</a></div>
 <!--
 **ritwik12/ritwik12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
