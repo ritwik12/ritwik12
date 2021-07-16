@@ -1,7 +1,12 @@
 ![d272c0197b866ef5822c9c457d2f0f51-700](https://user-images.githubusercontent.com/20038775/87086383-60ddaa00-c1e6-11ea-8c31-d4d30c2b516f.jpg)
 
+![github stats](https://github-readme-stats.vercel.app/api/?username=ritwik12&theme=react&show_icons=true&count_private=true)
+<br>
+<br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ritwik12.ritwik12)
-<a href="https://www.linkedin.com/in/ritwik-sharma-205a85148/"><img height="100" src="https://user-images.githubusercontent.com/20038775/95463157-4aea9d00-092d-11eb-94a6-536047cfac49.png"></a>
+
+<a href="https://www.linkedin.com/in/ritwik-sharma-205a85148/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="left"></a>
+
 
 <!--
 **ritwik12/ritwik12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
