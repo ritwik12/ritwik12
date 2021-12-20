@@ -27,9 +27,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api/?username=ritwik12&theme=react&show_icons=true&count_private=true)
 <br>
 --->
-<br>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ritwik12.ritwik12)
 
 # Reach Me:
 
