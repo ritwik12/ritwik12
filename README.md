@@ -5,8 +5,8 @@
 :eight_spoked_asterisk: &nbsp;  Working at <a href="https://www.linkedin.com/feed/"> LinkedIn</a> <br><br>
 :eight_spoked_asterisk: &nbsp; Technical Fields:<br>
 &nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Backend <br>
+&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Distributed Systems <br>
 &nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Infrastructure <br>
-&nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Systems <br>
 &nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Deep Learning <br>
 &nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Tooling <br>
 &nbsp;&nbsp;&nbsp;&nbsp; :small_blue_diamond: Performance and Scaling
